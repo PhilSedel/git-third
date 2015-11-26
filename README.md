@@ -1,4 +1,4 @@
 # git-third
 Third go-round with SourceTree learning
 
-Here's the first change to the readme file.
+This is an experimental branch readme file change.
